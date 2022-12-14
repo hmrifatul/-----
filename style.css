@@ -1,0 +1,161 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bg{
+  background-image: url(img/part-1bg.jpg);
+  height: 600px;
+  background-size: cover;
+}
+.mlogo{
+  height: 150px;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.tm{
+  color: aliceblue;
+  margin-left: 250px;
+  margin-top: -50px;
+  font-size: 50px;
+  font-weight: 900;
+}
+li{
+  list-style: none;
+  float: left;
+  margin-left: 30px;
+}
+li a{
+  color: rgb(243, 239, 239);
+  font-size: 30px;
+  text-decoration: none;
+  font-weight: 900;
+}
+.list{
+  margin-left: 400px;
+  margin-top: -150px;
+}
+.atv{
+   border: 1px solid rgb(245, 242, 242);
+   padding: 5px;
+}
+.atv:hover{
+  background-color: rgb(104, 123, 133);
+  transition: 2s ;
+  border-radius: 15px;
+}
+.allleka{
+  margin-top: -400px;
+  margin-left: 100px;
+}
+.well{
+  color: rgb(201, 14, 238);
+  font-size: 70px;
+}
+.boga{
+  color: rgb(226, 230, 9);
+}
+.pa{
+  height: 50px;
+  width: 100%;
+  background-color: rgb(9, 156, 214);
+  margin-top: 510px;
+}
+.pa-2 h2{
+  color: rgb(31, 30, 30);
+  margin-top: -40px;
+  margin-left: 50px;
+  font-weight: 900;
+}
+.ovr{
+  text-align: center;
+  margin-top: 200px;
+  font-size: 50px;
+}
+.ov11{
+height: 250px;
+width: 400px;
+float: left;
+margin-left: 40px;
+}
+.ov11 img{
+  height: 250px;
+width: 400px;
+}
+.ov11:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  
+
+}
+.ov12{
+  height: 250px;
+width: 400px;
+  float: left;
+  margin-left: 32px;
+}
+.ov12:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.ov12 img{
+  height: 250px;
+width: 400px;
+}
+.ov13{
+  height: 250px;
+width: 400px;
+  float: right;
+  margin-right: 40px;
+}
+.ov13:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.ov13 img{
+  height: 250px;
+width: 400px;
+}
+
+
+
+
+.ov14{
+  height: 250px;
+width: 400px;
+margin-top: 50px;
+float: left;
+margin-left: 40px;
+}
+.ov14:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.ov14 img{
+  height: 250px;
+width: 400px;
+}
+.ov15{
+  height: 250px;
+  width: 400px;
+  margin-top: 50px;
+    float: left;
+    margin-left: 32px;
+}
+.ov15:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.ov15 img{
+  height: 250px;
+width: 400px;
+}
+.ov16{
+  height: 250px;
+  width: 400px;
+  margin-top: 50px;
+    float: right;
+    margin-right: 40px;
+}
+.ov16:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.ov16 img{
+  height: 250px;
+width: 400px;
+}
