@@ -47,8 +47,15 @@
     .pa{
       height: 50px;
       width: 100%;
-      background-color: rgb(62, 233, 10);
+      background-color: #004985;
       margin-top: 480px;
+    }
+    /* .pa-2 h2{
+      color: rgb(24, 10, 10);
+      margin-top: -40px;
+      margin-left: 10px;
+      font-weight: 900;
+      font-size: 20px;
     }
     .ovr{
       text-align: center;
@@ -75,4 +82,4 @@
 @media only screen and (min-width: 992px) {}
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {}
+@media only screen and (min-width: 1200px) {} */
