@@ -1,66 +1,66 @@
-@media screen and (max-width: 600px) {
-    .bg{
-        background-image: url(img/part-1bg.jpg);
-        height: 600px;
-      }
-      .mlogo{
-        height: 70px;
-        margin-left: -130px;
-        margin-top: 30px;
-      }
-      .tm{
-        color: aliceblue;
-        margin-left: 100px;
-        margin-top: 50px;
-        font-size: 50px;
-        font-weight: 900;
-        float: left;
-      }
-      li{
-        list-style: none;
-        float: left;
-        margin-left: 20px;
-      }
-      li a{
-        color: rgb(9, 236, 199);
-        font-size: 20px;
-        text-decoration: none;
-        font-weight: 900;
-      }
-      li a:hover{
-        color: rgb(233, 7, 7);
-      }
-      .list{
-        margin-left: 30px;
-        margin-top: 30px;
-      }
-      .well{
-        color: rgb(201, 14, 238);
-        font-size: 60px;
-        margin-left: -90px;
-        margin-top: 80px;
-      }
-      .boga{
-        color: rgb(226, 230, 9);
-        margin-left: -40px;
-      }
-      .pa{
-        height: 50px;
-        width: 100%;
-        background-color: rgb(62, 233, 10);
-        margin-top: 480px;
-      }
-      .ovr{
-        text-align: center;
-        margin-top: 200px;
-      }
-      .ov12{
-        margin-top: 50px;
-      }
-      .ov13{
-        margin-top: 50px;
-        border-radius: 10px;
-      }
+@media screen and (max-width: 370px) {
+  .bg{
+      background-image: url(img/part-1bg.jpg);
+      height: 600px;
+    }
+    .mlogo{
+      height: 70px;
+      margin-left: -130px;
+      margin-top: 30px;
+    }
+    .tm{
+      color: aliceblue;
+      margin-left: 100px;
+      margin-top: 50px;
+      font-size: 50px;
+      font-weight: 900;
+      float: left;
+    }
+    li{
+      list-style: none;
+      float: left;
+      margin-left: 15px;
+    }
+    li a{
+      color: rgb(9, 236, 199);
+      font-size: 20px;
+      text-decoration: none;
+      font-weight: 900;
+    }
+    li a:hover{
+      color: rgb(233, 7, 7);
+    }
+    .list{
+      margin-left: -10px;
+      margin-top: 30px;
+    }
+    .well{
+      color: rgb(201, 14, 238);
+      font-size: 60px;
+      margin-left: -90px;
+      margin-top: 80px;
+    }
+    .boga{
+      color: rgb(226, 230, 9);
+      margin-left: -40px;
+    }
+    .pa{
+      height: 50px;
+      width: 100%;
+      background-color: rgb(62, 233, 10);
+      margin-top: 480px;
+    }
+    .ovr{
+      text-align: center;
+      margin-top: 200px;
+    }
+    .ov12{
+      margin-top: 50px;
+    }
+    .ov13{
+      margin-top: 50px;
+      border-radius: 10px;
+    }
 }
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {}
